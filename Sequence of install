@@ -1,0 +1,17 @@
+/* 
+
+Case of AWS ubuntu 
+
+*/
+
+#sudo pip3 install boto3
+
+#sudo pip3 install awscli
+
+#aws configure
+
+AWS Access Key ID [****************PP7W]:
+AWS Secret Access Key [****************sWaC]:
+Default region name [us-west-2b]: us-west-2
+Default output format [text]:
+
